@@ -1,0 +1,71 @@
+body{
+    background-color: lightskyblue;
+}
+#wrapper{
+    width: 1000px;
+    height: 1800px;
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    position: absolute;
+    margin-left: 500px;
+}
+#header{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+   
+    border-bottom: 4px solid white;
+}
+#title{
+    width: 300px;
+    height: 300px;
+    
+}
+#logo{
+    width: 300px;
+    height: 300px;
+
+}
+#main_content{
+    width: 1000px;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+    background-color: coral;
+}
+#lotto_result{
+    width: 1000px;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+}
+#date{
+    width: 1000px;
+    height: 50px;
+    background-color: azure;
+    text-align: center;
+}
+#lotto_num{
+    width: 1000px;
+    height: 200px;
+    background-color: bisque;
+}
+#rank_info{
+    width: 1000px;
+    height: 150px;
+    background-color: blueviolet;
+    text-align: center;
+}
+#your_lotto{
+    width: 1000px;
+    height: 500px;
+    background-color: darkslateblue;
+    text-align: center;
+}
+#text_style{
+    font: size 200%;
+    color: beige;
+    padding-top: 50px;
+}
